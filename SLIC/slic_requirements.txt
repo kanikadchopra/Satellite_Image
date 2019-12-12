@@ -1,0 +1,5 @@
+ipykernel==5.1
+rasterio
+numpy
+os
+scikit-image
