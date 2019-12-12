@@ -1,0 +1,6 @@
+ipykernel==5.1
+math
+rasterio
+numpy
+sklearn
+operator
