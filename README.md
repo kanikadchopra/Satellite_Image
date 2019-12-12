@@ -1,4 +1,4 @@
-# Principal Component Analysis
+# Simple Linear Iterative Clustering (SLIC)
 
 A project on completing Simple Linear Iterative Clustering on an image. Inputs a .TIF file for satellite imagery or any other image type from given filepath, number of segments, compactness and sigma factors, a list of bands and the output filepath to export the segments results to. 
 
