@@ -1,0 +1,4 @@
+ipykernel==5.1
+rasterio
+numpy
+os
